@@ -1,7 +1,8 @@
 name: J2xF
 favicon: null
-layout_spectrum: 0.04168454394675791
+layout_spectrum: 0.05175
 typography_spectrum: 0.5731835882179439
+title: Slacker. Artist. Thinker.
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7508103912696242
+    - '#ffffff'
+    - '#000000'
+    - '#99cbfd'
+    - '#999999'
+    - '#323440'
+  brandStrength: 0.5
   lightness: 0.6874751173891127
-  saturation: 0.3391946826595813
+  saturation: 0.3125
   rhythmicContrast: 0.16710825660265982
 purpose: []
