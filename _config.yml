@@ -1,29 +1,41 @@
-name: J2xF
-favicon: null
-layout_spectrum: 0.05175
-typography_spectrum: 0.0985
-title: Slacker. Artist. Thinker.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.5
+  saturation: 0.3125
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#99cbfd'
     - '#999999'
     - '#323440'
-  brandStrength: 0.5
   lightness: 0.6874751173891127
-  saturation: 0.3125
-  rhythmicContrast: 0.16710825660265982
+  rhythmicContrast: 0.1671082566026598
+title: Slacker. Artist. Thinker.
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.05175
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: J2xF
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.0985
